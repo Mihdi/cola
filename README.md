@@ -1,4 +1,10 @@
 # cola
+* 
+***COLA:** COCA Organisation & Lore Assistant
+**COCA:** COLA ORC Computing API
+**ORC:** Overworld Representation for Cola 
+* name proposed by [Aristide CUNY](https://github.com/AristideEU)
+
 
 A software suite made by a group of friends to play DND together in optimal condition.
 
@@ -10,3 +16,4 @@ Subprojects should include:
 - whatever you guys think we may need!
 
 All technologies are allowed, and any contribution is welcome!
+
